@@ -12,7 +12,7 @@ const Homepage = () => {
     <div className='homepage'>
       <img src="/orbital.png" className='orbital' alt="" />
       <div className='left'>
-      <h1>PRATAP-QnA</h1>
+      <h1>PRATAP AI</h1>
       <h2>SuperCharge your creativity and productivity</h2>
       <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. A deserunt,voluptate.
       </h3>
